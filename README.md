@@ -1,4 +1,3 @@
-# task2-codsoft
 # Movie Rating Prediction
 # Author: Harshit gusain
 # Batch: July
